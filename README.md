@@ -35,7 +35,7 @@ NLP-Projects/
 
 ├── README.md
 
-├── requirements.txt (optional)
+├── BBCNewsArticles.csv
 
 └── BBCNewsArticlesClustered.csv # Clustered output
 
