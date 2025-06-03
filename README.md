@@ -28,10 +28,15 @@ Perform topic clustering on BBC News article summaries using 3 vectorization met
 ## 📂 Folder Structure
 
 NLP-Projects/
+
 ├── NLP_Project_IMDB_BBC.ipynb # Final combined notebook
+
 ├── BBC_News_Articles/ # Folder with 5 subfolders (news categories)
+
 ├── README.md
+
 ├── requirements.txt (optional)
+
 └── BBCNewsArticlesClustered.csv # Clustered output
 
 ---
